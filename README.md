@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🃏 Poker Hand Evaluator
 
 <div align="center">
@@ -261,3 +262,7 @@ Have ideas or feedback? DM me on any platform! I'd love to hear your suggestions
 ⭐ Star this repo if you find it helpful!
 
 </div>
+=======
+# Poker-Hand-Evaluator
+A powerful poker hand evaluator that shows your hand in real-time and evaluates it instantly. Built to help players understand poker hands better and make informed decisions at the table.
+>>>>>>> 94eef185576b3338cd14f0eab56097aca04c6c9a

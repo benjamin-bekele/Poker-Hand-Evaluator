@@ -301,7 +301,7 @@ class PokerAboutDialog extends StatelessWidget {
                     context,
                     Icons.code,
                     'GitHub',
-                    'https://github.com/benjamin-bekele',
+                    'https://github.com/benjamin-bekele/Poker-Hand-Evaluator',
                     isDark,
                   ),
                   _socialButton(
@@ -315,7 +315,7 @@ class PokerAboutDialog extends StatelessWidget {
                     context,
                     Icons.work,
                     'LinkedIn',
-                    'https://linkedin.com/in/benjaminbekelealemuTelegram',
+                    'https://linkedin.com/in/benjaminbekelealemu',
                     isDark,
                   ),
                   _socialButton(
